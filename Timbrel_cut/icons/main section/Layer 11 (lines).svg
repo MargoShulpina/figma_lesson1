@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 1" width="166" height="1">
+	<title>Layer 11</title>
+	<defs>
+		<image  width="166" height="1" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKYAAAABAQMAAABuX0diAAAAAXNSR0IB2cksfwAAAANQTFRFkT2I0iCssQAAAAtJREFUeJxjYMAGAAAWAAEzsmuLAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 11" href="#img1" x="0" y="0" />
+</svg>

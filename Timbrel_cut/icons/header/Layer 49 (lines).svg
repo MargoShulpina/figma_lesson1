@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 28" width="154" height="28">
+	<title>Layer 49</title>
+	<defs>
+		<image  width="154" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAAAcAgMAAADkeE5BAAAAAXNSR0IB2cksfwAAAAlQTFRFkT2IkT2I////XGRckwAAAAN0Uk5T/wAARO7wMwAAADFJREFUeJxjYFxFBFjBwCBKjLqVDkSrkyJG3aqGUXWj6kbV0VEdUeUBUF0oMcpWMAAAkBW/aE8gmV4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 49" href="#img1" x="0" y="0" />
+</svg>
